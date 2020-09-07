@@ -1,0 +1,7 @@
+@media (max-width: 973px) {
+  .resume-header .name {
+    font-size: 1.7rem;
+    letter-spacing: 0.175rem;
+    font-weight: 900;
+  }
+}
